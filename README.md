@@ -15,9 +15,9 @@ The main [Sprig Repo is available here](https://www.github.com/hackclub/sprig).
 The Sprig consists of:
 
 - Raspberry Pi Pico (RP2040)
-- 160 x 128 TFT7735 Screen
+- 160 x 128 1.8" ST7735R LCD Screen
 - 12mm Square Tactile Buttons x 8
 - MAX98357A class D audio amplifier
 - AAA batteries x 2
 - LEDs x 2
-- speaker
+- 8 ohm 300mW speaker
