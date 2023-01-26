@@ -1,6 +1,0 @@
-Info: Front (top side) placement file: '/Users/leomcelroy/Desktop/new/sprig_sep_2022/gerber/pigame_pico-top-pos.csv'.
-Info: Component count: 21.
-Info: Back (bottom side) placement file: '/Users/leomcelroy/Desktop/new/sprig_sep_2022/gerber/pigame_pico-bottom-pos.csv'.
-Info: Component count: 4.
-Info: Full component count: 25.
-Info: File generation successful.
