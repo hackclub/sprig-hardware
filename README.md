@@ -1,23 +1,23 @@
-# The Sprig Hardware
+## The Sprig Hardware
 
-Here you can find the KiCad 6 files for the Sprig carrier board and the models for the back cover.
+You can find KiCAD 6 files for the PCB of Sprig, a BOM, and CAD models for the back acrylic plates. 
 
 The main [Sprig Repo is available here](https://www.github.com/hackclub/sprig).
 
-<img width="500" alt="Screen Shot 2022-08-25 at 5 15 41 PM" src="https://user-images.githubusercontent.com/27078897/186770863-cac52365-aa9e-4d3e-b236-fa8719226684.png">
+<img width="500" alt="Assembled Green Sprig, Front View" src="https://cloud-qhwlsnd4i-hack-club-bot.vercel.app/1sprig_green_front_assembled.heic">
 
-## Schematic
+<img width="500" alt="Assembled Green Sprig, Rear View" src="https://cloud-qhwlsnd4i-hack-club-bot.vercel.app/0sprig_green_back_assembled.heic">
 
-<img width="500" alt="Screen Shot 2022-08-25 at 5 20 06 PM" src="https://user-images.githubusercontent.com/27078897/186770959-c2b3ba81-9fde-482f-b4ac-9c8392906893.png">
+# Description 
 
-## Inventory
+The Sprig console is a custom-designed, limited edition game console powered by the Raspberry Pi Pico. It has a 1.8" 160x128 LCD display, as well as eight tactile buttons for input. It uses two AAA batteries for power, and has a MAX98357A audio amplifier with an 8 ohm, 300mW Speaker. 
 
-The Sprig consists of:
+The Sprig console is a custom-designed, limited edition game console built to run games written with the Sprig game editor.
 
-- Raspberry Pi Pico (RP2040)
-- 160 x 128 1.8" ST7735R LCD Screen
-- 12mm Square Tactile Buttons x 8
-- MAX98357A class D audio amplifier
-- AAA batteries x 2
-- LEDs x 2
-- 8 ohm 300mW speaker
+It's powered by a Raspberry Pi RP2040, which is clocked at 125MHz, with 264kB SRAM and 2MB external QSPI flash. Four unused GPIO pins are exposed to the rear of the console.
+
+The Sprig is powered by two AAA batteries. There is also a high efficiency schottky diode to prevent power flow to the batteries when connected to USB power. 
+
+In addition, there is a MAX98357A class D audio amplifier from Maxim Integrated, connected to a CUI Devices CVS-1508 8 ohm, 300mW speaker. 
+
+There are two LEDs for status, a power switch for batteries, as well as eight tactile buttons to control input. 
