@@ -1,6 +1,6 @@
-## The Sprig Hardware
+## The Sprig Console
 
-You can find KiCAD 6 files for the PCB of Sprig, a BOM, and CAD models for the back acrylic plates. 
+You can find KiCAD 6 files for the PCB of Sprig, a BOM, and CAD models for the back acrylic plates here.
 
 The main [Sprig Repo is available here](https://www.github.com/hackclub/sprig).
 
