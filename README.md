@@ -1,3 +1,6 @@
+# This repository has been deprecated. This project is now maintained at https://github.com/hackclub/sprig/tree/main/hardware
+
+
 ## The Sprig Console
 
 You can find KiCAD 6 files for the PCB of Sprig, a BOM, and CAD models for the acrylic back covers here.
