@@ -1,4 +1,7 @@
 # This repository has been deprecated. This project is now maintained at https://github.com/hackclub/sprig/tree/main/hardware
+## If you're looking for instructions on assembling your sprig, check out our [assembly guide!](https://github.com/hackclub/sprig/blob/main/docs/ASSEMBLY.md)
+
+---
 
 
 ## The Sprig Console
